@@ -1,0 +1,28 @@
+name: yellowhouseproject
+favicon: null
+layout_spectrum: 0.07320473971776664
+typography_spectrum: 0.6803253502584994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.381868883036077
+  lightness: 0.0354295342694968
+  saturation: 0.2566424992401153
+  rhythmicContrast: 0.5482516933698207
+purpose: []
