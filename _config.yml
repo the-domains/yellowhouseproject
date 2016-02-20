@@ -1,7 +1,7 @@
 name: yellowhouseproject
 favicon: null
-layout_spectrum: 0.07320473971776664
-typography_spectrum: 0.6803253502584994
+layout_spectrum: 1
+typography_spectrum: 0.85767
 cta:
   domain: null
   bucket: null
